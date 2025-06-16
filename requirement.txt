@@ -1,0 +1,5 @@
+google-generativeai>=0.3.1       # Gemini model
+speechrecognition>=3.10.0        # For converting voice to text
+gtts>=2.5.1                       # Google Text-to-Speech
+pyaudio>=0.2.13                   # Microphone support
+python-dotenv>=1.0.0             # Optional: for environment variables
